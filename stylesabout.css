@@ -47,3 +47,12 @@ li a {
   
 
 }
+.container {
+  display: table;
+  width: 15%;
+  }
+.col {
+  display: table-cell;
+  padding: 10px;
+  }
+           
