@@ -1,6 +1,49 @@
 body{
-    background-image: url('wallpaper2.jpg');
-    background-repeat: no-repeat;
+  background-image: url('wallpaper2.jpg');
+  background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
+  font-family: 'Nova Flat';font-size: 30px;
+  color:#17f1b0ec
+}
+h1{
+  color:#17f1b0ec
+}
+ul{
+  list-style-type: none;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  font-size: 100%;
+
+}
+li {
+  float: right;
+  margin: 0px 25px;
+font-family: verdana;
+font-size: 100%;
+}
+
+li a {
+  display: block;
+  color: #0ae239fb;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+.btn{
+  font-size: 2rem;
+  font-weight: 700;
+  padding: 0.5em 1 em;
+  color: car(--clr-accent);
+  background-color: var(--clr--rgba);
+  border: 10px solid var(--clr-accent);
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+.btn:hover{
+  transform: translateY(-10px);
+  background-color: #2b5cc796;
+  color: var(--clr-light);
+  
+
 }
