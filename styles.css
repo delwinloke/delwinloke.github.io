@@ -1,0 +1,44 @@
+body{
+    background-image: url('GalaxyBackground.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 100px;
+    margin-right: 50px;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+    margin: 0px 50px;
+  font-family: verdana;
+  font-size: 100%;
+  }
+  
+  li a {
+    display: block;
+    color: #e29e0a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #f3170f5d;
+  }
+  h1 {
+     text-align: center;
+     color: #29f7a1;
+     font-size: 300%;
+
+  }
+  h3{
+    text-align: center;
+     color: #29f7a1;
+     font-size: 100%;
+  }
