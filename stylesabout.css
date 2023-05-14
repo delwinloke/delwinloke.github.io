@@ -1,21 +1,23 @@
 body{
   background-image: url('wallpaper2.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-  font-family: 'Nova Flat';font-size: 30px;
-  color:#17f1b0ec
+background-attachment: fixed;  
+background-size: cover;
+font-family: 'Nova Flat';font-size: 30px;
 }
-h1{
-  color:#17f1b0ec
-}
-ul{
-  list-style-type: none;
-  margin-left: 50px;
-  margin-bottom: 50px;
-  font-size: 100%;
 
+nav{
+width: 100%;
 }
+
+ul {
+  list-style-type: none;
+  margin-top: 50px;
+  margin-right: 50px;
+  padding: 25px;
+  overflow: hidden;
+}
+
 li {
   float: right;
   margin: 0px 25px;
@@ -25,11 +27,19 @@ font-size: 100%;
 
 li a {
   display: block;
-  color: #0ae239fb;
+  color: #e29e0a;
   text-align: center;
   padding: 10px 10px;
   text-decoration: none;
 }
+
+.logo img{
+position: absolute;
+margin-left: 100px;
+width: 100px;
+height: 100px;
+}
+
 .btn{
   font-size: 2rem;
   font-weight: 700;
@@ -58,5 +68,14 @@ li a {
     margin: 0px 10px;
     padding: 0px;
     font-size: 30px;
-    
-    }
+ }
+
+ h1{
+  color: #29f7a1;
+  font-size: 200%;
+ }
+
+ p {
+  color: #29f7a1;
+ }
+
