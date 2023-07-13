@@ -13,6 +13,9 @@ body{
   height: 150px;
   
 }
+.mug img{
+float: left;
+}
 .cover{
   margin-top: -100px;
 }
