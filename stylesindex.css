@@ -26,6 +26,11 @@ body{
      color: #29f7a1;
      font-size: 100%;
   }
+.title{
+  text-align: center;
+  color: #29f7a1;
+  font-size: 300%;
+}
 /*nav{
   width: 100%;
   font-family: verdana;
@@ -54,8 +59,6 @@ ul {
     padding: 10px 10px;
     text-decoration: none;
   }
-
-
 
   .btn{
     font-size: 2rem;
