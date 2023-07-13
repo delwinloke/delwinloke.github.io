@@ -98,3 +98,6 @@ body{
   display: block;
 }
   
+.p {
+  float: right;
+}

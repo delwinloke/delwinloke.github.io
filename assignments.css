@@ -103,3 +103,42 @@ body{
     .dropdown:hover .dropdown-content {
       display: block;
     }
+
+    .phonestand img{
+    margin-top: 200px;
+    margin-left: 100px;
+    float: left;
+
+    }
+    .phonestanding iframe{
+    margin-left: 200px;
+    float: middle;
+    margin-top: 200px;
+    }
+    .text1{
+    float: right;
+    margin-top: 50px;
+    
+    }
+
+    .box img{
+    margin-top: 200px;
+    float: left;
+    height: 400px;
+    
+    }
+    .boxing iframe{
+    margin-top: 200px;
+    margin-left: 50px;
+    
+    }
+    .realbox img{
+    float: right;
+    height: 400px;
+    margin-top:220px;
+
+
+
+    
+
+    }
