@@ -5,7 +5,27 @@ body{
   background-size: cover;
   font-family: 'Nova Flat';font-size: 30px;
 }
+.logo img{
+  position: absolute;
+  margin-left: 100px;
+  width: 100px;
+  height: 100px;
+}
+.cover{
+  margin-top: -100px;
+}
 
+  h1{
+     text-align: center;
+     color: #29f7a1;
+     font-size: 300%;
+  
+  }
+  h2{
+    text-align: center;
+     color: #29f7a1;
+     font-size: 100%;
+  }
 /*nav{
   width: 100%;
   font-family: verdana;
@@ -35,28 +55,7 @@ ul {
     text-decoration: none;
   }
 
-.logo img{
-  position: absolute;
-  margin-left: 100px;
-  width: 100px;
-  height: 100px;
-}
 
-.cover{
-  margin-top: -100px;
-}
-
-  h1{
-     text-align: center;
-     color: #29f7a1;
-     font-size: 300%;
-  
-  }
-  h2{
-    text-align: center;
-     color: #29f7a1;
-     font-size: 100%;
-  }
 
   .btn{
     font-size: 2rem;
