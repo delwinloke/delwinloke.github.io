@@ -110,3 +110,26 @@ margin-top: 100px;
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.text1{
+  margin-top: 100px;
+}
+
+p {
+  color: #29f7a1;
+
+ }
+
+.logoo img{
+margin-left: 400px;
+height: 800px;
+
+}
+
+.exercise3{
+  margin-left: 500px;
+  height: 800px;
+}
+
+.legobrick iframe{
+  float: right;
+}
