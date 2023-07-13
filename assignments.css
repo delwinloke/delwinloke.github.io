@@ -8,32 +8,31 @@ body{
 }
 .logo img{
   position: absolute;
-  margin-left: 100px;
-  width: 100px;
-  height: 100px;
+  margin-left: 50px;
+  width: 150px;
+  height: 150px;
+  
 }
-
-
-
 .cover{
   margin-top: -100px;
 }
 
   h1{
-     text-align: right;
+     text-align: center;
      color: #29f7a1;
      font-size: 300%;
   
   }
   h2{
-    text-align: right;
+    text-align: center;
      color: #29f7a1;
      font-size: 100%;
+    
   }
 .Title{
-  margin:auto;
+  margin: auto;
   width: 50%;
-  padding: 10px;
+  padding: 100px;
   
 }
 
