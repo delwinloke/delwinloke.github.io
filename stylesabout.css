@@ -6,6 +6,12 @@ background-size: cover;
 font-family: 'Nova Flat';font-size: 30px;
 }
 
+.navbar {
+  overflow: hidden;
+  padding: 10px;
+  
+}
+
 .navbar a {
   float: right;
   font-size: 16px;
