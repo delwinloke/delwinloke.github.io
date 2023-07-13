@@ -17,13 +17,13 @@ body{
 }
 
   h1{
-     text-align: center;
+     text-align: right;
      color: #29f7a1;
      font-size: 300%;
   
   }
   h2{
-    text-align: center;
+    text-align: right;
      color: #29f7a1;
      font-size: 100%;
   }
