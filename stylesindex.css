@@ -74,11 +74,12 @@ ul {
   .navbar {
     overflow: hidden;
     font-family: 'Nova Flat';font-size: 30px;
+    float:right;
   }
   
   /* Links inside the navbar */
   .navbar a {
-    float: middle;
+    float: left;
     font-size: 16px;
     color: white;
     text-align: center;
