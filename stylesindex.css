@@ -73,13 +73,12 @@ ul {
 
   .navbar {
     overflow: hidden;
-    background-color: #333;
-    font-family: Arial;
+    font-family: 'Nova Flat';font-size: 30px;
   }
   
   /* Links inside the navbar */
   .navbar a {
-    float: left;
+    float: middle;
     font-size: 16px;
     color: white;
     text-align: center;
