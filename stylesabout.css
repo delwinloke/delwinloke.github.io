@@ -125,7 +125,7 @@ li a {
 /* Links inside the dropdown */
 .dropdown-content a {
   float: none;
-  color: rgb(0, 0, 0);
+  color: #e29e0a;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
