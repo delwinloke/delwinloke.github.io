@@ -1,9 +1,9 @@
 body{
     background-image: url('galaxy.jpg');
     background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-  font-family: 'Nova Flat';font-size: 30px;
+    background-attachment: fixed;  
+    background-size: cover;
+    font-family: 'Nova Flat';font-size: 30px;
 }
 .logo img{
   position: absolute;
@@ -27,7 +27,7 @@ body{
      font-size: 100%;
   }
 .title{
-  text-align: center;
+  position: absolute;
   color: #29f7a1;
   font-size: 300%;
 }
