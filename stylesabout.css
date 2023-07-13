@@ -85,3 +85,45 @@ height: 100px;
   color: #29f7a1;
  }
 
+ .dropdown {
+  float: right;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: #e29e0a;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: verdana;
+  font-size: 100%; 
+  margin: 0; 
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  color: #e29e0a;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(8, 184, 17, 0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
