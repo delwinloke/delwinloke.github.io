@@ -129,6 +129,11 @@ height: 800px;
   margin-left: 500px;
   height: 800px;
 }
+.lego img{
+  float: left;
+
+
+}
 
 .legobrick iframe{
   float: right;
