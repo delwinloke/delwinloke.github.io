@@ -15,31 +15,10 @@ body{
 .front img{
 float: right;
 padding: 100px;
-margin-top: 0px;
+margin-top: 200px;
 }
 
-.cover{
-  margin-top: -100px;
-}
 
-  h1{
-     text-align: center;
-     color: #29f7a1;
-     font-size: 300%;
-  
-  }
-  h2{
-    text-align: center;
-     color: #29f7a1;
-     font-size: 100%;
-    
-  }
-.Title{
-  margin: auto;
-  width: 50%;
-  padding: 100px;
-  
-}
 
 .navbar a {
   float: right;
