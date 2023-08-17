@@ -12,7 +12,22 @@ body{
   height: 150px;
   
 }
+.cover{
+  margin-top: -100px;
+}
 
+  h1{
+     text-align: center;
+     color: #29f7a1;
+     font-size: 300%;
+  
+  }
+  h2{
+    text-align: center;
+     color: #29f7a1;
+     font-size: 100%;
+    
+  }
 .Title{
   margin: auto;
   width: 50%;
