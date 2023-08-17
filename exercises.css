@@ -132,6 +132,7 @@ height: 800px;
 
 
 .legobrick iframe{
-  float: right;
-  padding-bottom: 1000px;
+  float: middle;
+padding: 31px;
+margin-top: 100px;
 }
