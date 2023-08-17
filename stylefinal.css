@@ -13,9 +13,9 @@ body{
   
 }
 .front img{
-float: right;
+float: middle;
 padding: 50px; 
-margin-top: 200px;
+margin-top: 100px;
 }
 
 
