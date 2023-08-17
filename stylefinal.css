@@ -13,7 +13,7 @@ body{
   
 }
 .front img{
-float: left;
+float: right;
 padding: 50px;
 margin-top: 200px;
 }
