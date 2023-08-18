@@ -106,3 +106,8 @@ height: 800px;
 .legobrick iframe{
   float: right;
 }
+
+.face img {
+  width: 500px;
+  height: 500px;
+}
